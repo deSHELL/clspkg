@@ -1,0 +1,7 @@
+Package: hello-world
+Version: 0.1.0
+Architecture: all
+Maintainer: turbomaster95 <dev@deva.is-cool.dev>
+Homepage: https://deva.is-cool.dev
+Description: |-
+    Adds the command 'cls' for people coming from windows
